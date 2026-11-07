@@ -1,9 +1,8 @@
 <!-- Profile README for @official-pam -->
 <div align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Pam Emmanuel | Mechatronics Engineering, AI and Machine Learning" />
+  <img src="./assets/profile-banner.svg" width="100%" alt="Emmanuel John | Mechatronics Engineering, AI and Machine Learning" />
   <br/>
   <a href="https://github.com/official-pam"><img src="https://img.shields.io/badge/GitHub-official--pam-172b3a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=official-pam&style=for-the-badge&color=159d91&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
 
 ## About
@@ -57,7 +56,7 @@ My current focus is machine learning and computer vision, alongside the engineer
 
 <div align="center">
   <br/>
-  <img src="https://img.shields.io/badge/LEARN-Continuously-173b52?style=flat-square" alt="Learn continuously" />
-  <img src="https://img.shields.io/badge/BUILD-Deliberately-176b68?style=flat-square" alt="Build deliberately" />
+  <img src="https://img.shields.io/badge/LEARN-Continuously-39245f?style=flat-square" alt="Learn continuously" />
+  <img src="https://img.shields.io/badge/BUILD-Deliberately-7540b8?style=flat-square" alt="Build deliberately" />
   <img src="https://img.shields.io/badge/ENGINEER-For%20impact-315b88?style=flat-square" alt="Engineer for impact" />
 </div>
