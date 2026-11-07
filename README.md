@@ -1,91 +1,72 @@
 <!-- Profile README for @official-pam -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,50:173B52,100:19A7A0&height=190&section=header&text=Pam%20Emmanuel&fontSize=48&fontColor=F4F7FA&fontAlignY=38&desc=Mechatronics%20%7C%20AI%20%26%20Machine%20Learning%20%7C%20Engineering&descAlignY=60&descSize=15" alt="Pam Emmanuel profile banner" />
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=37C6B2&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+with+real-world+purpose;Exploring+machine+learning+and+computer+vision;Connecting+software%2C+electronics%2C+and+mechanical+systems" alt="Typing introduction" /></a>
-  <p>
-    <a href="https://github.com/official-pam"><img src="https://img.shields.io/badge/GitHub-official--pam-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-    <img src="https://komarev.com/ghpvc/?username=official-pam&style=for-the-badge&color=159D91&label=PROFILE+VIEWS" alt="Profile views" />
-  </p>
+  <img src="./assets/profile-banner.svg" width="100%" alt="Pam Emmanuel | Mechatronics Engineering, AI and Machine Learning" />
+  <br/>
+  <a href="https://github.com/official-pam"><img src="https://img.shields.io/badge/GitHub-official--pam-172b3a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=official-pam&style=for-the-badge&color=159d91&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
 
 ## About
-I'm a Mechatronics Engineering undergraduate interested in building practical systems at the intersection of **artificial intelligence, software, electronics, and intelligent machines**.
 
-My current focus is machine learning and computer vision, while continuing to develop the engineering foundation needed to take intelligent systems beyond the screen.
+I'm a Mechatronics Engineering undergraduate at the **Federal University of Technology, Minna**, interested in building practical systems at the intersection of **AI, software, electronics, and intelligent machines**.
 
-- Studying **Mechatronics Engineering** at the Federal University of Technology, Minna.
-- Developing skills in **Python, machine learning, data science, and computer vision**.
+My current focus is machine learning and computer vision, alongside the engineering foundations required to take intelligent systems beyond the screen.
+
+- Developing with Python and exploring machine learning, data science, and computer vision.
+- Building experience with C++, MATLAB, and engineering tools.
 - Exploring embedded systems, robotics, and control-oriented applications.
 - Interested in applied AI for agriculture, safety, and real-world operational problems.
 
-> I value useful engineering: understand the problem, build the system, test it, and improve it.
+> Understand the problem. Build the system. Test it. Improve it.
 
-## Technology & tools
+## Technical toolkit
 
-### Programming
-<p><img src="https://skillicons.dev/icons?i=python,cpp,matlab,html,css,js&theme=dark" alt="Programming language icons" /></p>
-
-### Machine learning & data
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="Machine learning and computer vision icons" />
-  <br/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
-</p>
-
-### Engineering & development
-<p><img src="https://skillicons.dev/icons?i=arduino,raspberrypi,git,github,vscode&theme=dark" alt="Engineering and development tools" /></p>
-
-<sub>These icons represent technologies I work with or am actively learning, not a claim of expert-level proficiency in every tool.</sub>
-
-## Selected work
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/official-pam/Selective-smart-surviellance-">Selective Smart Surveillance</a></h3>
-      Exploring computer-vision approaches to make surveillance more selective and reduce the burden of reviewing continuous footage.
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/official-pam/heart_disease_model">Heart Disease Model</a></h3>
-      A machine-learning project focused on exploring predictive modelling with health-related data.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/official-pam/Ajatrade-on-N-Atlas">AjaTrade on N-Atlas</a></h3>
-      A software project in my broader exploration of practical digital products.
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/official-pam/Taproot-">Taproot</a></h3>
-      Another project from my ongoing development work. See the repository for its current scope and implementation.
-    </td>
-  </tr>
-</table>
-
-## GitHub at a glance
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=official-pam&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=37C6B2&icon_color=37C6B2&text_color=C9D1D9" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=official-pam&layout=compact&hide_border=true&theme=transparent&title_color=37C6B2&text_color=C9D1D9" alt="Most used languages" />
-  <br/>
-  <img width="70%" src="https://streak-stats.demolab.com?user=official-pam&hide_border=true&background=00000000&ring=37C6B2&fire=37C6B2&currStreakLabel=37C6B2&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+
+**Programming & development**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+
+**Data science & machine learning**
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+
+**Mechatronics & embedded systems**
+
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+
 </div>
 
-## Contribution activity
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=official-pam&bg_color=00000000&color=C9D1D9&line=37C6B2&point=FFFFFF&area=true&area_color=173B52&hide_border=true" alt="GitHub contribution activity graph" />
-  <img width="100%" src="https://raw.githubusercontent.com/official-pam/official-pam/output/github-contribution-grid-snake.svg" alt="Animated contribution grid snake" />
-</div>
+<sub>Tools shown reflect technologies I've used or am actively learning. The list is not a claim of expert-level proficiency in every tool.</sub>
 
-## Current direction
-- Strengthening the foundations of machine learning and model evaluation.
-- Building practical computer-vision projects.
+## Selected projects
+
+| Project | Focus |
+|---|---|
+| [Selective Smart Surveillance](https://github.com/official-pam/Selective-smart-surviellance-) | Computer vision for more selective and efficient surveillance workflows. |
+| [Heart Disease Model](https://github.com/official-pam/heart_disease_model) | Machine learning and predictive modelling with health-related data. |
+| [AjaTrade on N-Atlas](https://github.com/official-pam/Ajatrade-on-N-Atlas) | Software project exploring practical digital products. |
+| [Taproot](https://github.com/official-pam/Taproot-) | An ongoing software project. See the repository for its current implementation. |
+
+## What I'm working towards
+
+- Stronger foundations in machine learning and model evaluation.
+- Practical computer-vision systems that solve defined problems.
 - Connecting AI with mechatronics and embedded engineering.
-- Improving software design, documentation, and project quality.
+- Better software architecture, testing, and technical documentation.
 
 <div align="center">
-  <sub>Learn continuously. Build deliberately. Engineer for impact.</sub>
-  <br/><br/>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:19A7A0,50:173B52,100:101827&height=100&section=footer" alt="" />
+  <br/>
+  <img src="https://img.shields.io/badge/LEARN-Continuously-173b52?style=flat-square" alt="Learn continuously" />
+  <img src="https://img.shields.io/badge/BUILD-Deliberately-176b68?style=flat-square" alt="Build deliberately" />
+  <img src="https://img.shields.io/badge/ENGINEER-For%20impact-315b88?style=flat-square" alt="Engineer for impact" />
 </div>
